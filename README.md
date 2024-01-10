@@ -1,4 +1,5 @@
 <h1 align="center">Welcome to Ricardo's Git-hub </h1>
+<img src="https://github.com/Ricardod671/Ricardod671/blob/main/Banner.png" alt="Banner">
 
 <!--
 **Ricardod671/Ricardod671** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
