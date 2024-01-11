@@ -10,7 +10,7 @@
 <a href="https://github.com/Ricardod671/graph_zfactor/tree/main?tab=readme-ov-file" target="_blank" rel="noreferrer"><img src="https://github.com/Ricardod671/Ricardod671.github.io/blob/main/images/factor_chart.png" width="400" height="400" alt="z Factor Chart" title="z factor flowchart" target="_blank" rel="noreferrer"></a>
 <p>
 <a href="https://github.com/Ricardod671/graph_zfactor/tree/main?tab=readme-ov-file" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/CODE-white?style=for-the-badge&logo=github&logoColor=black" target="_blank" rel="noreferrer">
 </a>
 </p>
 <p>In this project, it is generate a graph depicting the gas compressibility factor (z), aiming to
@@ -32,7 +32,7 @@
 <br>
 <p>
 <a href="https://github.com/Ricardod671/Reservoir-Engineering-Gas-Propertiesr" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black" >
+<img src="https://img.shields.io/badge/CODE-white?style=for-the-badge&logo=github&logoColor=black" >
 </a>
 </p>
 </p>The purpose of this project is to offer a Python-based solution for calculating the properties of
@@ -52,7 +52,7 @@
 <a href="https://github.com/Ricardod671/Bellabeat-EDA" target="_blank"><img src="https://github.com/Ricardod671/Ricardod671.github.io/blob/main/images/calories_steps.png" width="400" height="400" alt="This image show a plot of steps vs calories" title="Calories vs Steps"></a>
 <p>
 <a href="https://github.com/Ricardod671/Bellabeat-EDA" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-white?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>The project involved using data uploaded by Fitbit Fitness to answer key questions, such as
@@ -70,7 +70,7 @@
 <a href="" target="_blank">
 </a>
 <a href="" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-white?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p>Personal Project</p>
