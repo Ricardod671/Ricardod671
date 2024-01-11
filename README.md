@@ -63,17 +63,17 @@
                                                                                       
 </td>
 <td width="50%">
-<h3 align="center">Personal Project</h3>
+<h3 align="center"></h3>
 <div align="center">
-<a href="" target="_blank"><img src="https://github.com/Ricardod671/Ricardod671.github.io/blob/main/images/me.jpg" width="400" height="400" alt="me" title="me"></a>
+<a href="" target="_blank"></a>
 <p>
 <a href="" target="_blank">
 </a>
 <a href="" target="_blank">
-<img src="https://img.shields.io/badge/CODE-white?style=for-the-badge&logo=github&logoColor=black">
+
 </a>
 </p>
-<p>Personal Project</p>
+<p></p>
 </div>
                                                                                       
 </td>  
