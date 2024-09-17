@@ -77,8 +77,6 @@ src="https://github.com/Ricardod671/EDA-in-the-Province-of-British-Columbia/blob
 </p>
 <p>In this Project uses data from the <a href="https://www.bc-er.ca/data-reports/data-centre/" target="_blank" rel="nonererrer"> BC Energy Regulator</a> to create a structured database in PostgreSQL. The data was transformed and cleaned using Power Query, and an Exploratory Data Analysis (EDA) was conducted to extract insights related to oil production.
 
-The database schema was designed to facilitate efficient analysis of production data across different wells. The final analysis was performed using SQL, and the results were visualized in Tableau.
-
 You can explore the final visualizations here: <a href="https://public.tableau.com/app/profile/ricardo.f.lix.d.az.l.pez/viz/HistoricalOilProductioninBritishColumbia/Dashboard" target="_blank" rel="nonererrer">Historical Oil Production in British Columbia.</a>
 
 </p>
