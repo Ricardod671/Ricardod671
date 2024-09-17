@@ -65,15 +65,17 @@
 <td width="50%">
 <h3 align="center">Exploratory Data Analysis (EDA) in the Province of British Columbia</h3>
 <div align="center">
-<a href="" target="_blank"></a>
+<a href="https://github.com/Ricardod671/EDA-in-the-Province-of-British-Columbia/tree/main" target="_blank" rel="noreferrer"><img
+src="https://github.com/Ricardod671/EDA-in-the-Province-of-British-Columbia/blob/main/EDA/dashboard.PNG" width="400" height="400" alt="visulizacion of EDA in Tableau" title="visualizacion of the Province of British Columbia"></a>
 <p>
-<a href="" target="_blank">
+<a href="https://github.com/Ricardod671/EDA-in-the-Province-of-British-Columbia/tree/main" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/CODE-white?style=for-the-badge&logo=github&logoColor=black" target="_blank" rel="noreferrer">
 </a>
 <a href="" target="_blank">
 
 </a>
 </p>
-<p></p>
+<p>In this Project</p>
 </div>
                                                                                       
 </td>  
