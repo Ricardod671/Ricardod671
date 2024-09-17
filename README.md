@@ -63,7 +63,7 @@
                                                                                       
 </td>
 <td width="50%">
-<h3 align="center"></h3>
+<h3 align="center">Exploratory Data Analysis (EDA) in the Province of British Columbia</h3>
 <div align="center">
 <a href="" target="_blank"></a>
 <p>
