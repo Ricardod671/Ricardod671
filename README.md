@@ -77,7 +77,7 @@ src="https://github.com/Ricardod671/EDA-in-the-Province-of-British-Columbia/blob
 </p>
 <p>In this Project uses data from the <a href="https://www.bc-er.ca/data-reports/data-centre/" target="_blank" rel="nonererrer"> BC Energy Regulator</a> to create a structured database in PostgreSQL. The data was transformed and cleaned using Power Query, and an Exploratory Data Analysis (EDA) was conducted to extract insights related to oil production.
 
-You can explore the final visualizations here: <a href="https://public.tableau.com/app/profile/ricardo.f.lix.d.az.l.pez/viz/HistoricalOilProductioninBritishColumbia/Dashboard" target="_blank" rel="nonererrer">Historical Oil Production in British Columbia</a> and for a extra explanetion read my articule <a href="https://www.linkedin.com/pulse/exploratory-data-analysis-eda-oil-production-province-d%25C3%25ADaz-l%25C3%25B3pez-jgo4c/" target="_blank" rel="nonererrer">Linkedln</a>
+You can explore the final visualizations here: <a href="https://public.tableau.com/app/profile/ricardo.f.lix.d.az.l.pez/viz/HistoricalOilProductioninBritishColumbia/Dashboard" target="_blank" rel="nonererrer">Historical Oil Production in British Columbia</a> and for a extra explanation read my articule on <a href="https://www.linkedin.com/pulse/exploratory-data-analysis-eda-oil-production-province-d%25C3%25ADaz-l%25C3%25B3pez-jgo4c/" target="_blank" rel="nonererrer">Linkedln</a>
 
 </p>
 </div>
