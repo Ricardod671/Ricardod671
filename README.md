@@ -47,18 +47,15 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Exploratory Data Analysis</h3>
+<h3 align="center">Generation of Automatic Forecast Production Reports</h3>
 <div align="center">
-<a href="https://github.com/Ricardod671/Bellabeat-EDA" target="_blank"><img src="https://github.com/Ricardod671/Ricardod671.github.io/blob/main/images/calories_steps.png" width="400" height="400" alt="This image show a plot of steps vs calories" title="Calories vs Steps"></a>
+<a href="https://github.com/Ricardod671/british-columbia-production" target="_blank"><img src="https://github.com/Ricardod671/british-columbia-production/blob/main/data/interim/wellcast_logo.png" width="400" height="400" alt="This image show a logo of a imaginary company" title="Wellcast Production & Forecast Anaytics"></a>
 <p>
-<a href="https://github.com/Ricardod671/Bellabeat-EDA" target="_blank">
+<a href="https://github.com/Ricardod671/british-columbia-production" target="_blank">
 <img src="https://img.shields.io/badge/CODE-white?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>The project involved using data uploaded by Fitbit Fitness to answer key questions, such as
-						trends in the usage of smart devices and how to apply these usage trends to Bellabeat's
-						customers. The data was cleaned using pandas, and the initial hypothesis suggests that people
-						with higher step counts tend to have healthier habits.</p>
+<p>The project generate a automatic oil and gas forecast of wells of BC Oil & Gas Comission.</p>
 </div>
                                                                                       
 </td>
